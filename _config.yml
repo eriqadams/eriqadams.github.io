@@ -1,8 +1,8 @@
-title:            eadams's workspace 
+title:            Play, Learn, Research, Teach. 
 description:      Experimental workspace.
-url:              # Site url.
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+url:              http://eadams.ubgamelab.org
+signoff:          Eriq Muhammad Adams
+disqus_shortname: eriqadams
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
