@@ -6,7 +6,7 @@ published: true
 
 This page contains course materials of my teaching classes at [Faculty of Computer Science](http://ptiik.ub.ac.id), [University of Brawijaya](http://www.ub.ac.id).
 
-### Computer Graphics Course, Genap 2015.
+**Computer Graphics Course, Genap 2015.**  
 [**Demos**](https://github.com/eriqadams/computer-graphics)  
 [**Blank template project**] (https://github.com/eriqadams/eriqadams.github.io/blob/master/_uploads/template-project.zip)  
 **Presentation slides** :  
