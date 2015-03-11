@@ -3,7 +3,7 @@ layout: page
 title: Course
 ---
 
-This page is contains course materials of my class which teached by me in [Faculty of Computer Science](http://ptiik.ub.ac.id), [University of Brawijaya](http://www.ub.ac.id).
+This page contains course materials of my teaching classes at [Faculty of Computer Science](http://ptiik.ub.ac.id), [University of Brawijaya](http://www.ub.ac.id).
 
 ###Computer Graphics Course, Genap 2015.
 [01. Lesson Plans] (https://github.com/eriqadams/eriqadams.github.io/blob/master/_uploads/CG_01_Lesson_Plans.ppt)
