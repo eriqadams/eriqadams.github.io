@@ -11,12 +11,10 @@ links:
     url:          /
   - name:         About
     url:          /about
+    external:     true
   - name:         Course
     url:          /course
-  - name:         Publications
-    url:          /publication
-  - name:         Projects
-    url:          /project
+    external:     true
   - name:         GitHub
     url:          http://github.com/eriqadams
     external:     true
