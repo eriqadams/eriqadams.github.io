@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title: Computer Graphics Course - Genap 2015
+date: 2015-03-11 15:04:00
+disqus: y
 ---
 
 Announcement to Game Design Course - Genap 2015 students.
