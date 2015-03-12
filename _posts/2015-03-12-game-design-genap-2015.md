@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Announcement to Game Design Course - Genap 2015 students.
