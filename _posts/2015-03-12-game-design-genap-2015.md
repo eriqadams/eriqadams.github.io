@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Computer Graphics Course - Genap 2015
-date: 2015-03-11 15:04:00
-disqus: y
+title: "Game Design Course - Genap 2015"
+date: {}
+disqus: "y"
+published: true
 ---
 
 Announcement to Game Design Course - Genap 2015 students.
