@@ -10,7 +10,7 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 [**Demos**](https://github.com/eriqadams/computer-graphics)|
 [**Blank template project**] (http://drive.ub.ac.id/public.php?service=files&t=eac50fa4fbed98dc68cb22bd5906b57d&download)  
 **Assignment** :  
-1. [Assignment #1 Submission](http://goo.gl/VgtG7q)  
+1. [Assignment #1 Submission](http://goo.gl/VAdskU)  
 **Presentation slides** :  
 1. [Lesson Plans] (http://drive.ub.ac.id/public.php?service=files&t=b066d7c2980227edda8a16e45134aa75&download)  
 2. [Introduction] (http://drive.ub.ac.id/public.php?service=files&t=e7096b5eacfc10af1cf31ff379ce5fff&download)  
@@ -26,4 +26,4 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 
 ### Game Artificial Intelligence, Genap 2015
 **Assignment** :  
-1. [Assignment #1 Submission](http://goo.gl/gBx8EP)  
+1. [Assignment #1 Submission](http://goo.gl/C8S7hH)  
