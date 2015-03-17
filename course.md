@@ -23,3 +23,7 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 2. [Foundations of Game Design] (http://drive.ub.ac.id/public.php?service=files&t=0354edc20a6f2971b020c139e9871944&download)  
 3. [Science of Game Design (Part 1)] (http://drive.ub.ac.id/public.php?service=files&t=4de12713f307d0d7125834996508afd5&download)  
 4. [Science of Game Design (Part 2)] (http://drive.ub.ac.id/public.php?service=files&t=0ea660fb0e2d196cd0ecc9ba61050efd&download)  
+
+### Game Artificial Intelligence, Genap 2015
+**Assignment** :  
+1. [Assignment #1 Submission](http://goo.gl/gBx8EP)  
