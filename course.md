@@ -27,3 +27,4 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 ### Game Artificial Intelligence, Genap 2015
 **Assignment** :  
 1. [Assignment #1 Submission](http://goo.gl/neFbbg)  
+2. [Assignment #2 Submission](http://goo.gl/uD7Uvm)  
