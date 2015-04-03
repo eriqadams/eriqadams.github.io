@@ -19,7 +19,7 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 
 ### Game Design Course, Genap 2015.
 **Assignment** :   
-1. [Paper Prototyping Proposal Submission](http://goo.gl/ULu5Om)   
+1. [Paper Prototyping Proposal Submission](http://goo.gl/UskSWK)   
 **Presentation slides** :  
 1. [Lesson Plans] (http://drive.ub.ac.id/public.php?service=files&t=9542471ffe2e9c986e6788016f7a0888&download)  
 2. [Foundations of Game Design] (http://drive.ub.ac.id/public.php?service=files&t=0354edc20a6f2971b020c139e9871944&download)  
