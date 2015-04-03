@@ -18,8 +18,8 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 4. [Transformation] (http://drive.ub.ac.id/public.php?service=files&t=c1f80366ff71ccdaa64a20c72060fcb8&download)  
 
 ### Game Design Course, Genap 2015.
-**Assignment** :
-1. [Paper Prototyping Proposal Submission](http://goo.gl/ULu5Om)  
+**Assignment** :   
+1. [Paper Prototyping Proposal Submission](http://goo.gl/ULu5Om)   
 **Presentation slides** :  
 1. [Lesson Plans] (http://drive.ub.ac.id/public.php?service=files&t=9542471ffe2e9c986e6788016f7a0888&download)  
 2. [Foundations of Game Design] (http://drive.ub.ac.id/public.php?service=files&t=0354edc20a6f2971b020c139e9871944&download)  
@@ -29,5 +29,5 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 ### Game Artificial Intelligence, Genap 2015
 **Assignment** :  
 1. [Assignment #1 Submission](http://goo.gl/neFbbg)  
-2. [Assignment #2 Submission](http://goo.gl/uD7Uvm) 
-3. [Final Project Proposal Submission](http://goo.gl/2eW7Be)  
+2. [Assignment #2 Submission](http://goo.gl/uD7Uvm)   
+3. [Final Project Proposal Submission](http://goo.gl/2eW7Be)   
