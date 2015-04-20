@@ -11,7 +11,6 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 [**Blank template project**] (https://drive.ub.ac.id/index.php/s/xSD9FgfQMHxsHiG/download)  
 **Assignment** :  
 1. [Assignment #1 Submission](http://goo.gl/VAdskU)  
-2. [Playtest Logbook Template](https://drive.ub.ac.id/index.php/s/KzkIKaDRG8T7LdO/download)   
 **Presentation slides** :  
 1. [Lesson Plans] (https://drive.ub.ac.id/index.php/s/8SDVkPKpqm2Wx0W/download)  
 2. [Introduction] (https://drive.ub.ac.id/index.php/s/C1Vx6MBo8S3SkAH/download)  
@@ -23,6 +22,7 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 ### Game Design Course, Genap 2015.
 **Assignment** :   
 1. [Paper Prototyping Proposal Submission](http://goo.gl/UskSWK)   
+2. [Playtest Logbook Template](https://drive.ub.ac.id/index.php/s/KzkIKaDRG8T7LdO/download)  
 **Presentation slides** :  
 1. [Lesson Plans] (https://drive.ub.ac.id/index.php/s/VJZlNBT6dxx3r8W/download)  
 2. [Foundations of Game Design] (https://drive.ub.ac.id/index.php/s/gBpBuHubgGJBM3V/download)  
