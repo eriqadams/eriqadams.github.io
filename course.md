@@ -12,6 +12,7 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 **Assignment** :  
 1. [Assignment #1 Submission](http://goo.gl/VAdskU)  
 2. [Assignment #2 Submission](http://goo.gl/xsa7t0)   
+3. [Assignment #3 Submission](https://goo.gl/vxJENa)   
 **Presentation slides** :  
 1. [Lesson Plans] (https://drive.ub.ac.id/index.php/s/8SDVkPKpqm2Wx0W/download)  
 2. [Introduction] (https://drive.ub.ac.id/index.php/s/C1Vx6MBo8S3SkAH/download)  
