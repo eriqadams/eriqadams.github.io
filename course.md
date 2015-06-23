@@ -10,9 +10,10 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 [**Demos**](https://github.com/eriqadams/computer-graphics)|
 [**Blank template project**] (https://drive.ub.ac.id/index.php/s/xSD9FgfQMHxsHiG/download)  
 **Assignment** :  
-1. [Assignment #1 Submission](http://goo.gl/VAdskU)  
-2. [Assignment #2 Submission](http://goo.gl/xsa7t0)   
-3. [Assignment #3 Submission](https://goo.gl/vxJENa)   
+1. [Assignment #1 Submission -- Closed](#)  
+2. [Assignment #2 Submission -- Closed](#)   
+3. [Assignment #3 Submission -- Closed](#)   
+4. [FINAL PROJECT SUBMISSION] (https://goo.gl/kRmGQC)     
 **Presentation slides** :  
 1. [Lesson Plans] (https://drive.ub.ac.id/index.php/s/8SDVkPKpqm2Wx0W/download)  
 2. [Introduction] (https://drive.ub.ac.id/index.php/s/C1Vx6MBo8S3SkAH/download)  
@@ -23,7 +24,7 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 
 ### Game Design Course, Genap 2015.
 **Assignment** :   
-1. [Paper Prototyping Proposal Submission](http://goo.gl/UskSWK)   
+1. [Paper Prototyping Proposal Submission -- Closed](#)   
 2. [Playtest Logbook Template](https://drive.ub.ac.id/index.php/s/KzkIKaDRG8T7LdO/download)  
 **Presentation slides** :  
 1. [Lesson Plans] (https://drive.ub.ac.id/index.php/s/VJZlNBT6dxx3r8W/download)  
@@ -36,9 +37,9 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 
 ### Game Artificial Intelligence, Genap 2015
 **Assignment** :  
-1. [Assignment #1 Submission](http://goo.gl/neFbbg)  
-2. [Assignment #2 Submission](http://goo.gl/uD7Uvm)   
-3. [Final Project Proposal Submission](http://goo.gl/2eW7Be)   
+1. [Assignment #1 Submission -- Closed](#)  
+2. [Assignment #2 Submission -- Closed](#)   
+3. [Final Project Proposal Submission](#)   
 **Presentation Slides**   
 1. [Lesson Plans] (https://drive.ub.ac.id/index.php/s/0Ho52TiAz5kY0tV/download)   
 2. [Artificial Intelligence in Games] (https://drive.ub.ac.id/index.php/s/IQE752bm1B49WgD/download)   
