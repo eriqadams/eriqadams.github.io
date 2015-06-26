@@ -13,7 +13,7 @@ This page contains course materials of my teaching classes at [Faculty of Comput
 1. [Assignment #1 Submission -- Closed](#)  
 2. [Assignment #2 Submission -- Closed](#)   
 3. [Assignment #3 Submission -- Closed](#)   
-4. [FINAL PROJECT SUBMISSION] (https://goo.gl/kRmGQC)     
+4. [FINAL PROJECT SUBMISSION] (#)     
 **Presentation slides** :  
 1. [Lesson Plans] (https://drive.ub.ac.id/index.php/s/8SDVkPKpqm2Wx0W/download)  
 2. [Introduction] (https://drive.ub.ac.id/index.php/s/C1Vx6MBo8S3SkAH/download)  
