@@ -6,7 +6,7 @@ disqus: y
 ---
 
 Announcement to Computer Graphics, Game AI, Game Design Course - Genap 2015 students.
-Detail of Final Grade Genap 2015 can be accessed in : 
+Detail of Final Grade Genap 2015 can be accessed in :   
 [Computer Graphics E](https://drive.ub.ac.id/index.php/s/UORDgscP7k7UjLY/download).  
 [Computer Graphics G](https://drive.ub.ac.id/index.php/s/osOxxXUta25V5vi/download).  
 [Computer Graphics H](https://drive.ub.ac.id/index.php/s/ZHhGQSLZ5cxfD3y/download).  
